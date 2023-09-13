@@ -7,7 +7,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-# Projeto de portfólio pessoa
+# Projeto calendario
 
 ![Capa do projeto]()
 
@@ -15,14 +15,16 @@ Projeto criado utilizando exemplo de Boostrap para ensino de uso do
 README e do Bootstrap
 
 ## Descrição
-o propósito deste projeto, o objetivo, foi aprimorar as habilidades texto que compõe o README.
+Esse projeto, tem o objetivo, aprimorar as habilidades  que compõe o README.
 ## Introdução
 
 ## Funcionalidades
-As funçãos não vão nada além da capa do site
+A função do calendario  e de mostrar como por exmplo a data do seu aniversario,feriado,resseso,coisas que vc marco para tal dia e etc.
 ### Tecnologias  utilizadas
-Foram utilizados neste projeto Bootstrap, HTML e CSS
+Foi  utilizado neste projeto index , HTML e CSS
 ## Fontes consultadas 
 
-## Autores
+## Autor
+foi criado pelo Igor gabriel Liandro de souza com ajuda do professor Leonardo Rocha cccccc  
+
 

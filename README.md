@@ -9,7 +9,7 @@
 
 # Projeto calendario
 
-![Capa do projeto]()
+![Capa do projeto](img/Captura%20de%20tela%202023-09-19%20112304.png)
 
 Projeto calendario foi criado utilizando 
 
@@ -23,11 +23,13 @@ Em resumo, um calendário é uma ferramenta crucial para a gestão do tempo e a 
 A função do projeto é destacar datas importantes no calendário como: aniversario, feriado, recesso e etc. No calendário, você pode selecionar uma data e uma cor. Quando você clica no botão **Enviar** o calendário marcará esse dia com a cor escolhida.
 
 ### Tecnologias  utilizadas
-
-
+* ``HTMLL``
+* ``CSS``
+* ``VS CODE``
+* ``GIT HUB``
 ## Fontes consultadas 
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
-https://www.alura.com.br/artigos/escrever-bom-readme
+ [lohhans]https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+[alura]https://www.alura.com.br/artigos/escrever-bom-readme
 
 ## Autor
 foi criado pelo Igor gabriel Liandro de souza com ajuda do professor Leonardo Rocha 
